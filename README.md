@@ -28,7 +28,7 @@
 
 3. **Start the iPhone/iPad App**
    - Open the iPhone/iPad app.
-   - Enter the IP Address in the app and tap the `Set` button.
+   - Enter the IP Address in the app and tap the `Connect` button.
 
 4. **Scan**
    - Please refer to the demo video to perform the 3D scan and share.
