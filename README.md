@@ -43,7 +43,7 @@ Alternatively, turn off the firewall only when using this application.
 # Show Your Usecase
 I would love to see your use cases and scanned creations. It’s not mandatory, but if you’re willing, I would appreciate it if you could tag the following accounts when posting on social media.
 
-X: [@Tks_Yoshinaga](https://x.com/home)  
+X: [@Tks_Yoshinaga](https://x.com/Tks_Yoshinaga)  
 LinkedIn: [Takashi Yoshinaga](https://www.linkedin.com/in/tks-yoshinaga/)  
 
 # Depth Video Player
