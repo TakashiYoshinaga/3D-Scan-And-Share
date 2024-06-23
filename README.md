@@ -9,7 +9,7 @@
 2. **Application Installation**
    - Install the app to iPhone/iPad.
      * Please contact me for the download link. [X](https://twitter.com/Tks_Yoshinaga),[LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/)
-     * Using LiDAR sensor is recommended.
+     * This app works on iPhone/iPad but using the model with LiDAR sensor is recommended.
    - Download the app for Looking Glass from this repository.
    - Download and install Looking Glass Bridge from the official website: [Looking Glass Bridge](https://lookingglassfactory.com/software/looking-glass-bridge).
    - Confirm your display setting. [Display Setting](https://docs.lookingglassfactory.com/software-tools/looking-glass-bridge/display-settings-on-windows)
@@ -32,4 +32,7 @@
 
 4. **Scan**
    - Please refer to the demo video to perform the 3D scan and share.
+  
+# Add and Delete 3D Model Files Manually
+   - Windows: Inside the `dl` folder located in the same directory as 3DObjectViewer.exe.
 
