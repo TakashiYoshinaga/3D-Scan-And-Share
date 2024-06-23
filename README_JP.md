@@ -10,7 +10,7 @@
 2. **アプリケーションのインストール**
    - iPhone/iPadにアプリをインストールしてください。
      * ダウンロードリンクについては私にお問い合わせください [X](https://twitter.com/Taka_Yoshinaga),[LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/)
-     * LiDARセンサーが必要です。
+     * このアプリはiPhone/iPadで動作します。LiDARセンサーが搭載されているモデルだと尚良しです。
    - このリポジトリからLooking Glass用のアプリをダウンロードしてください。
    - 公式ウェブサイトからLooking Glass Bridgeをダウンロードしてインストールしてください： [Looking Glass Bridge](https://lookingglassfactory.com/software/looking-glass-bridge).
    - ディスプレイ設定を確認してください。[Display Setting](https://docs.lookingglassfactory.com/software-tools/looking-glass-bridge/display-settings-on-windows)
@@ -31,3 +31,6 @@
 
 4. **3Dスキャン**
    - このページに掲載したビデオを参照してスキャン及び共有を行ってください
+  
+# ビデオファイルの手動追加と削除
+   - Windows: 3DObjectViewer.exeと同じディレクトリ内の`dl`フォルダ内。
