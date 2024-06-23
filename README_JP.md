@@ -34,3 +34,7 @@
   
 # ビデオファイルの手動追加と削除
    - Windows: 3DObjectViewer.exeと同じディレクトリ内の`dl`フォルダ内。
+
+# Depth Video Player
+3Dスキャンオブジェクトの表示ではなくDepth付きのビデオの録画と再生に興味がある方は下記のアプリケーションもお試しください！  
+https://github.com/TakashiYoshinaga/DepthVideoPlayer
