@@ -34,7 +34,7 @@
    - Please refer to the demo video to perform the 3D scan and share.
   
 # Add and Delete 3D Model Files Manually
-   - Please add or remove files as needed in the dl folder located in the same directory as 3DObjectViewer.exe.
+   - Please add or remove files as needed in the `dl` folder located in the same directory as `3DObjectViewer.exe`.
 
 # Trouble Shooting
 After sending 3d model to a PC, if the model not appear immediately in LookingGlass, please remove 3DObjectViewer.exe from your firewall settings once.  
