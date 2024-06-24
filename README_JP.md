@@ -35,6 +35,11 @@
 # ビデオファイルの手動追加と削除
    - Windows: 3DObjectViewer.exeと同じディレクトリ内の`dl`フォルダ内。
 
+# トラブルシューティング
+iPhoneからPCに3Dモデルを転送したのち、すぐにLookingGlassにそのモデルが表示されない場合は、ファイヤーウォールの設定から当アプリケーション(3DObjectViewer.exe)を一度削除してください。  
+または、このアプリケーションを使用しているときだけ一時的にファイヤーウォールをオフにしてください。  
+[アプリ毎のファイヤウォール設定(Windows)](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=9810-8377)
+
 # Depth Video Player
 3Dスキャンオブジェクトの表示ではなくDepth付きのビデオの録画と再生に興味がある方は下記のアプリケーションもお試しください！  
 https://github.com/TakashiYoshinaga/DepthVideoPlayer
