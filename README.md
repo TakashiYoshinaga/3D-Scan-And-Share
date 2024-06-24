@@ -37,8 +37,8 @@
 
 | Operation           | Description            |
 | ------------------- | ---------------------- |
-| Right Arrow         | Display next object    |
-| Left Arrow          | Display previous object|
+| Right Arrow Key         | Display next object    |
+| Left Arrow Key          | Display previous object|
 | Left Drag           | Move up, down, left, right|
 | Right Drag          | Rotate                 |
 | Scroll              | Move forward, backward |
