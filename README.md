@@ -32,6 +32,18 @@
 
 4. **Scan**
    - Please refer to the demo video to perform the 3D scan and share.
+   - When viewing objects in Looking Glass, the following operations are possible:
+
+
+| Operation           | Description            |
+| ------------------- | ---------------------- |
+| Right Arrow         | Display next object    |
+| Left Arrow          | Display previous object|
+| Left Drag           | Move up, down, left, right|
+| Right Drag          | Rotate                 |
+| Scroll              | Move forward, backward |
+| Ctrl + Scroll       | Zoom in, out           |
+
   
 # Add and Delete 3D Model Files Manually
    - Please add or remove files as needed in the `dl` folder located in the same directory as `3DObjectViewer.exe`.
