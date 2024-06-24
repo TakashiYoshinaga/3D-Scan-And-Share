@@ -37,12 +37,12 @@
 
 | Operation           | Description            |
 | ------------------- | ---------------------- |
-| Right Arrow Key         | Display next object    |
-| Left Arrow Key          | Display previous object|
 | Left Drag           | Move up, down, left, right|
 | Right Drag          | Rotate                 |
 | Scroll              | Move forward, backward |
 | Ctrl + Scroll       | Zoom in, out           |
+| Right Arrow Key         | Display next object    |
+| Left Arrow Key          | Display previous object|
 
   
 # Add and Delete 3D Model Files Manually
