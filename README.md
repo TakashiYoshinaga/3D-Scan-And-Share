@@ -37,7 +37,7 @@
    - Windows: Inside the `dl` folder located in the same directory as 3DObjectViewer.exe.
 
 # Trouble Shooting
-After recording a video with depth on iPhone, if the video does not appear immediately in LookingGlass, please remove DepthVideoPlayer.exe from your firewall settings once.  
+After sending 3d model to a PC, if the model not appear immediately in LookingGlass, please remove 3DObjectViewer.exe from your firewall settings once.  
 Alternatively, turn off the firewall only when using this application.
 
 # Show Your Usecase
