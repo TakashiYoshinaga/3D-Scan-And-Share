@@ -30,7 +30,7 @@
    - Open the iPhone/iPad app.
    - Enter the IP Address in the app and tap the `Connect` button.
 
-4. **Scan**
+4. **Scan & Play**
    - Please refer to the demo video to perform the 3D scan and share.
    - When viewing objects in Looking Glass, the following operations are possible:
 
