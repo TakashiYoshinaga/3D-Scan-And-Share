@@ -35,14 +35,18 @@
    - When viewing objects in Looking Glass, the following operations are possible:
 
 
-| Operation           | Description            |
-| ------------------- | ---------------------- |
-| Left Drag           | Move up, down, left, right|
-| Right Drag          | Rotate                 |
-| Scroll              | Move forward, backward |
-| Ctrl + Scroll       | Zoom in, out           |
-| Right Arrow Key         | Display next object    |
-| Left Arrow Key          | Display previous object|
+| Operation          | Description               |
+| ------------------ | ------------------------- |
+| Left Drag          | Move Up/Down/Left/Right   |
+| Right Drag         | Rotate                    |
+| Scroll             | Move Forward/Backward     |
+| Ctrl + Scroll      | Zoom In/Out               |
+| Right Arrow (Keyboard)  | Display Next Object     |
+| Left Arrow (Keyboard)   | Display Previous Object |
+| R (Keyboard)       | Reset Rotation            |
+| D (Keyboard)       | Delete Current Object     |
+| Q (Keyboard)       | Export Quilt Image        |
+
 
   
 # Add and Delete 3D Model Files Manually
