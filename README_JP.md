@@ -47,8 +47,14 @@
 
 
   
-# ビデオファイルの手動追加と削除
+# 3Dモデルファイルの追加と削除
    - 3DObjectViewer.exeと同じディレクトリ内の`dl`フォルダ内にファイルがあるので適宜追加または削除をしてください。
+   - また3DObjectViewer.exe実行時に`Dキー`を押下することで表示中のオブジェクトを削除できます
+
+# データのエクスポート
+   - 3DObjectViewer.exe実行時に`Qキー`を押下することで下記のディレクトリにQuilt画像が保存されます。  
+3DScanObjectViewerForWindows -> 3DObjectViewer_Data -> Quilts
+
 
 # トラブルシューティング
 iPhoneからPCに3Dモデルを転送したのち、すぐにLookingGlassにそのモデルが表示されない場合は、ファイヤーウォールの設定から当アプリケーション(3DObjectViewer.exe)を一度削除してください。  
