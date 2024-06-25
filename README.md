@@ -49,8 +49,14 @@
 
 
   
-# Add and Delete 3D Model Files Manually
-   - Please add or remove files as needed in the `dl` folder located in the same directory as `3DObjectViewer.exe`.
+# Adding and Deleting 3D Model Files
+   - Please add or delete files as needed in the `dl` folder within the same directory as 3DObjectViewer.exe.
+   - Additionally, you can delete the currently displayed object by pressing the `D key` while running 3DObjectViewer.exe.
+
+# Exporting Data
+   - By pressing the `Q key` while running 3DObjectViewer.exe, Quilt images will be saved in the following directory:  
+     3DScanObjectViewerForWindows -> 3DObjectViewer_Data -> Quilts
+
 
 # Trouble Shooting
 After sending 3d model to a PC, if the model not appear immediately in LookingGlass, please remove 3DObjectViewer.exe from your firewall settings once.  
