@@ -53,7 +53,7 @@
 
 # データのエクスポート
    - 3DObjectViewer.exe実行時に`Qキー`を押下することで下記のディレクトリにQuilt画像が保存されます。  
-3DScanObjectViewerForWindows -> 3DObjectViewer_Data -> Quilts
+3DScanObjectViewerForWindows -> Quilts
 
 
 # トラブルシューティング
