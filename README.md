@@ -59,9 +59,10 @@
 
 
 # Trouble Shooting
-After sending 3d model to a PC, if the model not appear immediately in LookingGlass, please remove 3DObjectViewer.exe from your firewall settings once.  
+- After sending 3d model to a PC, if the model not appear immediately in LookingGlass, please remove 3DObjectViewer.exe from your firewall settings once.  
 Alternatively, turn off the firewall only when using this application.
-
+- When you update the version of the Scan app (iOS), the app may crash after the scan is complete. In such cases, please restart your iPhone and try scanning again.
+  
 # Show Your Usecase
 I would love to see your use cases and scanned creations. It’s not mandatory, but if you’re willing, I would appreciate it if you could tag the following accounts when posting on social media.
 
