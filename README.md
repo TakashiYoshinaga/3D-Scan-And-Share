@@ -55,7 +55,7 @@
 
 # Exporting Data
    - By pressing the `Q key` while running 3DObjectViewer.exe, Quilt images will be saved in the following directory:  
-     3DScanObjectViewerForWindows -> 3DObjectViewer_Data -> Quilts
+     3DScanObjectViewerForWindows -> Quilts
 
 
 # Trouble Shooting
