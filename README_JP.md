@@ -11,7 +11,7 @@
    - iPhone/iPadにアプリをインストールしてください。
      * ダウンロードリンクについては私にお問い合わせください [X](https://twitter.com/Taka_Yoshinaga),[LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/)
      * このアプリはiPhone/iPadで動作します。LiDARセンサーが搭載されているモデルだと尚良しです。
-   - このリポジトリからLooking Glass用のアプリをダウンロードしてください。
+   - このリポジトリからLooking Glass用のアプリをダウンロードしてください。 [Download](https://github.com/TakashiYoshinaga/3D-Scan-And-Share/releases)
    - 公式ウェブサイトからLooking Glass Bridgeをダウンロードしてインストールしてください： [Looking Glass Bridge](https://lookingglassfactory.com/software/looking-glass-bridge).
    - ディスプレイ設定を確認してください。[Display Setting](https://docs.lookingglassfactory.com/software-tools/looking-glass-bridge/display-settings-on-windows)
 
