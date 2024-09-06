@@ -26,7 +26,7 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		Z12HFEkJ1eu2W8lA90++auT4FXM=
+		Z8k7Eo7hDQxT/UFfUQApoxIapXI=
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Resources/Data/il2cpp_data/Metadata/global-metadata.dat</key>
 		<data>
-		ZKgnJuFe2eb6Wg/T4Ncqgg7xTfE=
+		41oeWfo4V20xpmvhZ/sDAEWSKXk=
 		</data>
 		<key>Resources/Data/il2cpp_data/Resources/System.Data.dll-resources.dat</key>
 		<data>
@@ -95,10 +95,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			IyUBKXLfsFlnveEn5HGuTxA5myM=
+			akGunVG3qoSy4eezFnnONAbl8QM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2325012972dfb05967bde127e471ae4f10399b23" or cdhash H"ea20fdd606507ff3f6029fb66e48d6c922aa782f"</string>
+			<string>cdhash H"6a41ae9d51b7aa84b2e1e7b31679ce3406e5f103" or cdhash H"fbec7f719ec81f7bb4d3f7ecf16661d59aa9ab81"</string>
 		</dict>
 		<key>Frameworks/UnityPlayer.dylib</key>
 		<dict>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EwA/N0YlY0vAqAOA+xMse84gACSSKfITWPh/5IZ69C0=
+			Yj+nPnQhs9gOYzpZr7Xh4emkiZXIq4wGcbW/NGtG7tA=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers</key>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgRsZ4Q0LEZW8b5yI4F1m2SDrCcgKxAmxggTpRXFvsE=
+			vvg6oAcN6i4a7KoY7AuzdQJMiRoNpjRNKHUdsqSQUJI=
 			</data>
 		</dict>
 		<key>Resources/Data/il2cpp_data/Resources/System.Data.dll-resources.dat</key>
